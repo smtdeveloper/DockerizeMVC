@@ -1,0 +1,31 @@
+# .NET baðýmlýlýk dosyalarý
+**/bin
+**/obj
+**/Dockerfile*
+**/.dockerignore*
+
+# Yayýn (publish) klasörleri
+out/
+
+# Kiþisel kullanýcý dosyalarý
+*.user
+*.suo
+
+# Log dosyalarý
+*.log
+
+# Dockerfile ve .dockerignore hariç tüm gizli dosyalar
+.*
+
+# .vs (Visual Studio) klasörü
+.vs/
+
+# MacOS sistem dosyalarý
+.DS_Store
+
+# Temporary files
+*.swp
+*.tmp
+
+# Diðer gereksiz dosyalar
+*.env

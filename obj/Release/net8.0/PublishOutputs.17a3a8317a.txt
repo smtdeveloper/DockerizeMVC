@@ -1,0 +1,7 @@
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\DockerizeMVC.exe
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\DockerizeMVC.dll
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\DockerizeMVC.deps.json
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\DockerizeMVC.runtimeconfig.json
+D:\Projeler\DockerizeMVC\DockerizeMVC\obj\Release\net8.0\PubTmp\Out\DockerizeMVC.pdb
