@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "ImageSave";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ImageSave</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card shadow-lg p-4">
+            <h1 class="text-center mb-4" style="color: #5a9; font-family: 'Comic Sans MS', cursive, sans-serif;">🎨 Fun Image Uploader 🎨</h1>
+            <form asp-action="ImageSave" enctype="multipart/form-data" class="text-center">
+                <div class="mb-3">
+                    <label for="imageFile" class="form-label fw-bold" style="font-size: 18px; color: #FF6347;">Choose an Image</label>
+                    <input type="file" class="form-control form-control-lg" id="imageFile" name="imageFile" style="border: 2px dashed #FF6347; border-radius: 12px;" />
+                </div>
+                <button type="submit" class="btn btn-lg btn-success fw-bold px-4 py-2">
+                    <i class="bi bi-save2-fill"></i> Save Image
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Bootstrap Icons (Optional) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</body>
+</html>

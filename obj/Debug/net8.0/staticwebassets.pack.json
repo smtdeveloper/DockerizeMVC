@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Projeler\\DockerizeMVC\\DockerizeMVC\\wwwroot\\images\\162cfb88-1c8a-4f8e-a770-d9d7c1a10148.jpg",
+      "PackagePath": "staticwebassets\\images\\162cfb88-1c8a-4f8e-a770-d9d7c1a10148.jpg"
+    },
+    {
+      "Id": "D:\\Projeler\\DockerizeMVC\\DockerizeMVC\\wwwroot\\images\\409e4f3d-148c-4eb1-b72f-db5f85e2435b.jpg",
+      "PackagePath": "staticwebassets\\images\\409e4f3d-148c-4eb1-b72f-db5f85e2435b.jpg"
+    },
+    {
+      "Id": "D:\\Projeler\\DockerizeMVC\\DockerizeMVC\\wwwroot\\images\\44f616b1-c0f7-450a-9d6a-43dc28e06ec6.jpg",
+      "PackagePath": "staticwebassets\\images\\44f616b1-c0f7-450a-9d6a-43dc28e06ec6.jpg"
+    },
+    {
       "Id": "D:\\Projeler\\DockerizeMVC\\DockerizeMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

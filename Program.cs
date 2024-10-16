@@ -1,7 +1,12 @@
+using Microsoft.Extensions.FileProviders;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// `IFileProvider` servisini ekleyin ve wwwroot klasörünü temel dizin olarak kullanýn
+builder.Services.AddSingleton<IFileProvider>(new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory())));
 
 var app = builder.Build();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerizeMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc495f152b20478f1a4c4ce1aa0515eb5e04e36f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerizeMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerizeMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
